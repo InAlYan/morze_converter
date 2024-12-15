@@ -1,0 +1,18 @@
+{
+  "name": "morzeconverter",
+  "version": "1.0.0",
+  "description": "converts text strings in Russian and English into morse code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "азбука",
+    "морзе",
+    "конвертация",
+    "morze",
+    "conversion"
+  ],
+  "author": "yav",
+  "license": "ISC"
+}
