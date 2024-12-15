@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InAlYan/morze_converter.git"
+  },
   "keywords": [
     "азбука",
     "морзе",
@@ -14,5 +18,9 @@
     "conversion"
   ],
   "author": "yav",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InAlYan/morze_converter/issues"
+  },
+  "homepage": "https://github.com/InAlYan/morze_converter#readme"
 }
